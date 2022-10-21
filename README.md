@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jalilbengoufa
+- 👀 I’m interested in solving problems using software and the power of cloud
+- 🌱 I’m currently learning Rust
