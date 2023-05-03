@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @jalilbengoufa
-- 👀 I’m interested in solving problems using software and the power of cloud
-- 🌱 I’m currently learning Rust
+👋 Hi, I’m @jalilbengoufa.
+
+A proficient Full-Stack Developer with a Bachelor's degree in Software Engineering and a strong foundation in various programming languages, including Typescript, Java, Golang, and Python. Experienced in creating, deploying, and maintaining web applications utilizing a variety of databases and cloud platforms. Demonstrated expertise in API development using Graphql or Rest, Docker and Kubernetes configurations, and CI/CD pipeline scripting. Also skilled in software monitoring and improving productivity tools. Known for exceptional problem-solving skills, eliciting customer input, and the ability to work collaboratively with product teams to meet and exceed project goals. 
